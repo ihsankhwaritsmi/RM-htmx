@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 
 ## Installation
 
-To preview my project you need to install GO on your machine and then you can first compile the `main.go` and then proceed the following
+To preview my project you need to install GO on your machine and then you can first compile the `main.go` and then you can access by the following :
 
 ```bash
   localhost: 7000
