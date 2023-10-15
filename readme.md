@@ -1,6 +1,6 @@
 # Using HTMX and GO
 
-A brief description of what this project does and who it's for
+A project to study WebPro using HTMX and GO
 
 ## A screenshot
 
